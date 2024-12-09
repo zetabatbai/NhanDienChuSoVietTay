@@ -40,5 +40,5 @@
 # SLIDE Báo cáo:
 ###### https://www.canva.com/design/DAGYgO1IhXE/x17chTQn8EQLakNlweS9_g/edit
 # WORD BÁO CÁO:
-###### https://drive.google.com/file/d/1gpS3JrtwGFLwy9VeVkK88NUbb0BmACKY/view?usp=sharing
+###### https://drive.google.com/file/d/1fdLYIEFZyi_UuARcvPMTCymXmW64qhrp/view?usp=sharing
 
