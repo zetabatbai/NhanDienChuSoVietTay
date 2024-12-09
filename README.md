@@ -37,3 +37,9 @@
 ## Kết Quả Đạt Được
 ###### •	 Hệ thống có thể nhận diện các chữ số viết tay với độ chính xác cao trên tập MNIST.
 ###### •	 Giao diện thân thiện với người dùng, cho phép tải ảnh và xem kết quả trực tiếp.
+# SLIDE Báo cáo:
+###### https://www.canva.com/design/DAGYgO1IhXE/x17chTQn8EQLakNlweS9_g/edit?utm_content=DAGYgO1IhXE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# WORD BÁO CÁO:
+###### https://drive.google.com/file/d/1gpS3JrtwGFLwy9VeVkK88NUbb0BmACKY/view?usp=sharing
+
+#
