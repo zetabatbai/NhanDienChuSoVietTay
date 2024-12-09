@@ -33,7 +33,7 @@
 ###### os
 ###### tkinter
 ###### Pillow
-### •	Mô hình: LinearSVC
+### Mô hình: LinearSVC
 ## Kết Quả Đạt Được
 ###### •	 Hệ thống có thể nhận diện các chữ số viết tay với độ chính xác cao trên tập MNIST.
 ###### •	 Giao diện thân thiện với người dùng, cho phép tải ảnh và xem kết quả trực tiếp.
